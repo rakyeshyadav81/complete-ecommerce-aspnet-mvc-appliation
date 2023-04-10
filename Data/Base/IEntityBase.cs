@@ -1,6 +1,6 @@
 ﻿namespace eTickets.Data.Base
 {
-    public interface IEntityBase
+    public interface IEntityBaseRepository
     {
         int Id { get; set; }
     }
